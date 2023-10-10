@@ -23,7 +23,7 @@ Evidencia de la práctica
 
 ## Punto 2
 
-<img src="capturas/3.PNG"/>
+<img src="capturas/3.png"/>
 
 
 ## Punto 3

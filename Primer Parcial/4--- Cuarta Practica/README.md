@@ -32,7 +32,7 @@ Evidencia de la práctica
 
 ## Punto 4
 
-<img src="capturas/5.png"/>
+<img src="capturas/5.PNG"/>
 
 ## Punto 5
 

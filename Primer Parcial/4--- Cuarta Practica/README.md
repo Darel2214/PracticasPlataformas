@@ -1,4 +1,4 @@
-# PRÁCTICA 3
+# PRÁCTICA 4
 
 <br><br>
 Trabajo realizado por:
@@ -28,15 +28,15 @@ Evidencia de la práctica
 
 ## Punto 3
 
-<img src="capturas/aa.png" />
+<img src="capturas/aa.PNG" />
 
 ## Punto 4
 
-<img src="capturas/5.png"/>
+<img src="capturas/5.PNG"/>
 
 ## Punto 5
 
-<img src="capturas/bb.png"/>
+<img src="capturas/bb.PNG"/>
 
 ## Punto 6
 ## a

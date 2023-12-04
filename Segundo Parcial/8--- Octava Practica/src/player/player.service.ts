@@ -32,7 +32,7 @@ export class PlayerService {
     },
     {
       id: 5,
-      nombre: 'David ',
+      nombre: 'Juan David ',
       direccion: 'Quito',
       eliminado: false,
     },
